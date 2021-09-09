@@ -1,4 +1,6 @@
 # Batalha_Grupos
+/****/
+
 Repositorio Criado para atividade da disciplina de Metodos de Projeto de Software
 
 1. O mantenedor(Jhonanthy) cria um repositório no Github e colocar no readme os papéis do grupo.
